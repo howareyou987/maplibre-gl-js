@@ -9,14 +9,14 @@
     "esModuleInterop": true,
     "importHelpers": false,
     "jsx": "react",
-    "module": "ESNext",
+    "module": "ES2015",
     "moduleResolution": "Bundler",
     "resolveJsonModule": true,
     "skipLibCheck": false,
     "strict": false,
-    "target": "ES2016",
+    "target": "ES2015",
     "lib": [
-      "ESNext",
+      "ES2015",
       "DOM",
       "DOM.Iterable"
     ],
@@ -29,7 +29,7 @@
     "experimentalSpecifierResolution": "node",
     "esm": true,
     "compilerOptions": {
-      "target": "es2019",
+      "target": "ES2015",
       "types": [
         "node"
       ]
